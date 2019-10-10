@@ -1,2 +1,4 @@
 Der Mars ist nicht der zweite Planet unseres Sonnensystems.
 Er ist der vierte Planet unseres Sonnensystems.
+
+Der Mars ist bewohnt.
